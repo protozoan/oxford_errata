@@ -1,20 +1,6 @@
 # Errors in works about Oxford
 
-# Following is the form for this document so that future text
-#   processing can be used to import it into a database or 
-#   spreadsheet.
-
-# ASCII characters only, please.
-
-# Blank fields may be marked with a solitary z
-
-# Contributor (one line; maybe I can encode this field if desired)
-# Date contributed (one line yyyy-mm-dd)
-# Source or work (one line) (maybe this needs to be expanded to a full citation)
-# Page number(s) (one line; standard forms: xvii, 8, 74-78)  
-# Brief description (one line)
-# Description followed by a lone period on a line (multiline)
-
+# There should be a README document that explains the form of this document.
 
 Nina Green
 2010-10-29
