@@ -1,0 +1,34 @@
+# Errors in works about Oxford
+
+# The errors document is meant to be a common location to store a list of 
+# errors found in works about Oxford. The form can be worked on so that 
+# journal articles may be added, but for now, references are to Monstrous
+# Adversary.      
+
+# Following is the form for this document so that future text processing 
+#   can be used to import it into a database or spreadsheet. Again, this 
+#   is just a start. The form can be changed to be more convenient for all.
+
+# ASCII characters only, please.
+
+# Blank fields may be marked with a solitary z
+
+# Contributor (one line; maybe I can encode this field if desired)
+# Date contributed (one line yyyy-mm-dd)
+# Source or work (one line) (maybe this needs to be expanded to a full citation)
+# Page number(s) (one line; standard forms: xvii, 8, 74-78)  
+# Brief description (one line)
+# Description followed by a lone period on a line (multiline)
+
+# For example:
+Fred Flintstone 
+2010-11-16
+Looney
+33, 45-46
+Looney says Southampton is Oxford's father 
+Evidence for Southampton being Oxford's father 
+is based on a misreading of an inscription on 
+a chamber pot found in the Tower of London. Looney
+would have corrected the error, but the pot rolled 
+off his desk and was shattered beyond redemption.
+.
