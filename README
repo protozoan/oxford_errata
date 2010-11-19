@@ -13,17 +13,21 @@
 
 # Blank fields may be marked with a solitary z
 
-# Contributor (one line; maybe I can encode this field if desired)
 # Date contributed (one line yyyy-mm-dd)
+# Contributor (one line; maybe I can encode this field if desired)
+# Venue or forum if applicable (one line)
+# Creator of the error (one line)
 # Source or work (one line) (maybe this needs to be expanded to a full citation)
 # Page number(s) (one line; standard forms: xvii, 8, 74-78)  
 # Brief description (one line)
 # Description followed by a lone period on a line (multiline)
 
 # For example:
-Fred Flintstone 
 2010-11-16
-Looney
+Fred Flintstone 
+z
+Looney, J. T.
+The Once and Future Earl
 33, 45-46
 Looney says Southampton is Oxford's father 
 Evidence for Southampton being Oxford's father 
